@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newrepo/static/css/main.f37ac214.css",
+    "main.js": "/newrepo/static/js/main.a816ecf1.js",
+    "static/js/453.96453769.chunk.js": "/newrepo/static/js/453.96453769.chunk.js",
+    "index.html": "/newrepo/index.html",
+    "main.f37ac214.css.map": "/newrepo/static/css/main.f37ac214.css.map",
+    "main.a816ecf1.js.map": "/newrepo/static/js/main.a816ecf1.js.map",
+    "453.96453769.chunk.js.map": "/newrepo/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37ac214.css",
+    "static/js/main.a816ecf1.js"
+  ]
+}
