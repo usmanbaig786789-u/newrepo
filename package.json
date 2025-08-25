@@ -1,5 +1,5 @@
 {
-  "homepage": "https://usmanbaig786789-u.github.io/Textutils",
+"homepage": "https://usmanbaig786789-u.github.io/newrepo",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,6 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.7",
-    "gh-pages": "^6.3.0",
     "prop-types": "^15.8.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
